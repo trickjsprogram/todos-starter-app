@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Going for walk",
+      "completed": false
+    },
+    {
+      "title": "Reading Book",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Sleeping",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "title": "Waking up",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Having lunch",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
